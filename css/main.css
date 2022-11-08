@@ -250,7 +250,7 @@ section {
 .navbar.navbar-default  {
   border: 0;
   border-radius: 0;
-  
+   background-color: #428bca;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -792,7 +792,10 @@ ul.address {
   background-color: #3b5999;
 }
 
-/*Presets*/
+.footer-bottom a {
+  color: #fff;
+  text-decoration: none;
+}
 
 
 
